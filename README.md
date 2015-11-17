@@ -1,10 +1,10 @@
 # SpringSecurityDemo
-TINYS LEARNING DEMO
-
 
 项目说明 : 
+======================
 	这是一个spring-security的Demo..第一版...最简易版..目的是做到user表与security结合..
-	
+
+
 security里面的权限用户是读取数据库表格的....
 
 本项目的权限设计是 :
